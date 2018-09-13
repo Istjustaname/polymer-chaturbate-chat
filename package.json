@@ -1,7 +1,10 @@
 {
-	"name": "@istjustaname/polymer-chaturbate-chat",
-	"version": "1.0.0",
-  	"engines": {
-    	"yarn": ">= 1.0.0"
+  "name": "@istjustaname/polymer-chaturbate-chat",
+  "version": "1.0.0",
+  "engines": {
+    "npm": ">= 6.0.0"
+  },
+  "dependencies": {
+    "@polymer/polymer": "^3.0.5"
   }
 }
