@@ -245,4 +245,4 @@ class ChaturbateChat extends PolymerElement {
 }
 
 
-customElements.define('chaturbate-chat', ChaturbateChat);
+window.customElements.define('chaturbate-chat', ChaturbateChat);
